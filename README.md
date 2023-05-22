@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Mateus de Rezende Santos 🖐
 
+Estudante do segundo ano do Ensino Médio no SESI e atualmente estou cursando Desenvolvimento de Sistemas no Senai São Paulo. Como entusiasta de tecnologia, possuo habilidades em programação lógica, lógica programável e Microsoft Excel. Sou fluente em Português e possuo proficiência em Inglês.
+
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateussrezendev&show_icons=true&theme=highcontrast)
 
 ## Portfólio:
@@ -17,4 +19,3 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
-Estudante do segundo ano do Ensino Médio no SESI e atualmente estou cursando Desenvolvimento de Sistemas no Senai São Paulo. Como entusiasta de tecnologia, possuo habilidades em programação lógica, lógica programável e Microsoft Excel. Sou fluente em Português e possuo proficiência em Inglês.
