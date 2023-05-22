@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Mateus de Rezende Santos 🖐
 
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateussrezendev&show_icons=true&theme=highcontrast)
-
 Estudante do segundo ano do Ensino Médio no SESI e atualmente estou cursando Desenvolvimento de Sistemas no Senai São Paulo. Como entusiasta de tecnologia, possuo habilidades em programação lógica, lógica programável e Microsoft Excel. Sou fluente em Português e possuo proficiência em Inglês.
+
+![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateussrezendev&show_icons=true&theme=highcontrast)
 
 ## Portfólio:
 [![Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://mateussrezendev.github.io/)
