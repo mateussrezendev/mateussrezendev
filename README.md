@@ -4,7 +4,7 @@ Estudante do segundo ano do Ensino Médio no SESI e atualmente estou cursando De
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateussrezendev&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Portfólio:
 [![Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://mateussrezendev.github.io/)
