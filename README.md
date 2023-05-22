@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Mateus de Rezende Santos 🖐
 
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateussrezendev&show_icons=true&theme=transparent)
+![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateussrezendev&show_icons=true&theme=onedark)
 
 ### Portfólio:
 [![Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://mateussrezendev.github.io/)
