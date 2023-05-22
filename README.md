@@ -6,7 +6,7 @@ Estudante do segundo ano do Ensino Médio no SESI e atualmente estou cursando De
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateussrezendev&layout=compact)](https://github.com/mateussrezendev/github-readme-stats)
 
-## Portfólio:
+## 📜 Portfólio:
 [![Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://mateussrezendev.github.io/)
 
 ## 📞 Contato:
