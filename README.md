@@ -17,4 +17,4 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
-Estudante do segundo ano do Ensino Médio no SESI e atualmente estou cursando Desenvolvimento de Sistemas no Senai São Paulo. Como entusiasta de tecnologia, possuo habilidades em programação lógica, lógica programável e Microsoft Excel. Sou fluente em Português e possuo proficiência em Inglês. Possuo certificações em Desvendando o 5G, Competência Transversal - Lógica de Programação e LGPD (Lei Geral de Proteção de Dados Pessoais). Estou disponível para contato através do número de celular 15998127238 ou pelo e-mail mateusrs.dev.senai@gmail.com. Meu perfil no Linkedin é www.linkedin.com/in/mateusde-rezende-santos-33038526b. 
+Estudante do segundo ano do Ensino Médio no SESI e atualmente estou cursando Desenvolvimento de Sistemas no Senai São Paulo. Como entusiasta de tecnologia, possuo habilidades em programação lógica, lógica programável e Microsoft Excel. Sou fluente em Português e possuo proficiência em Inglês.
