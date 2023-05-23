@@ -2,9 +2,9 @@
 
 Estudante do segundo ano do Ensino Médio no SESI e atualmente estou cursando Desenvolvimento de Sistemas no Senai São Paulo. Como entusiasta de tecnologia, possuo habilidades em programação lógica, lógica programável e Microsoft Excel. Sou fluente em Português e possuo proficiência em Inglês.
 
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mateussrezendev&layout=compact&langs_count=16&theme=midnight-purple)
+![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateussrezendev&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateussrezendev&layout=compact)](https://github.com/mateussrezendev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateussrezendev&layout=compact&langs_count=16&theme=midnight-purple)
 
 ## 📜 Portfólio:
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mateussrezendev.github.io/)
