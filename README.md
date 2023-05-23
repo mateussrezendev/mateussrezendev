@@ -4,7 +4,7 @@ Estudante do segundo ano do Ensino Médio no SESI e atualmente estou cursando De
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateussrezendev&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateussrezendev&layout=compact&langs_count=16&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateussrezendev&layout=compact&langs_count=16&theme=midnight-purple)
 
 ## 📜 Portfólio:
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mateussrezendev.github.io/)
