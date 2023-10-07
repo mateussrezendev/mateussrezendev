@@ -19,12 +19,9 @@ Estudante do segundo ano do Ensino Médio no SESI e atualmente estou cursando De
 ##
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=mateussrezendev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-
-  <div align="center" >
+ 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateussrezendev&show_icons=true&theme=highcontrast)
-  </div>
-  <div align="center" >
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateussrezendev&layout=compact&langs_count=16&theme=midnight-purple)
 
   <div>
