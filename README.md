@@ -25,6 +25,22 @@ Estudante do segundo ano do Ensino Médio no SESI e atualmente estou cursando De
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateussrezendev&layout=compact&langs_count=16&theme=midnight-purple)
 
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ## 📜 Portfólio:
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mateussrezendev.github.io/)
 
