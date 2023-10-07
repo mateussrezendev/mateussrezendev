@@ -9,7 +9,7 @@ Estudante do segundo ano do Ensino Médio no SESI e atualmente estou cursando De
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,js,vscode,java,eclipse,spring,postman,github,ps,ae,ai,linkedin,linux,discord" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,java,eclipse,spring,postman,github,ps,ae,ai,linkedin,linux,discord" />
 </a>
   <br />
 
