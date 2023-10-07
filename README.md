@@ -2,6 +2,8 @@
 
 Estudante do segundo ano do Ensino Médio no SESI e atualmente estou cursando Desenvolvimento de Sistemas no Senai São Paulo. Como entusiasta de tecnologia, possuo habilidades em programação lógica, lógica programável e Microsoft Excel. Sou fluente em Português e possuo proficiência em Inglês.
 
+  ![Status](./profile-3d-contrib/profile-night-green.svg)
+
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mateussrezendev&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateussrezendev&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
